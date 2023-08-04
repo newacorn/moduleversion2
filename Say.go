@@ -1,3 +1,5 @@
 package moduleversion2
 
-func Say() {}
+func Say() {
+	println(1)
+}
